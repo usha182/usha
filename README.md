@@ -1,2 +1,2 @@
 # usha
-This file tell about changes which was done by Usha. 
+This is to test of Git.
